@@ -1,0 +1,105 @@
+/* Website Styles..can make a note regarding the website */
+/* use 14px for all of the website until i say otherwise */
+*{
+  font-size: 100%;
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+
+  margin: 0;
+  line height: 1;
+}
+body {
+  font-family: 'Bitter', serif;
+    border: 5px ridge plum;
+    box-shadow: #9a539a;
+    color: #8f0505;
+    margin: 50px;
+    margin: 10px 20px 10px;
+    background-image: url(Images/blossoms.jpg);
+    background-image: no-repeat:
+    }
+  header,
+  section,
+  footer {
+    padding: 30px;
+  }
+h1,h2,h3,h4,h5,h6{
+  color: #192277;
+  font weight; italic;
+  }
+
+  h1, h2, h3 {
+    margin-bottom: 20px;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px 0px white, 4px 4px 0px #888;
+    font-weight: bolder;
+    margin: 30px 0;
+      }
+.title {
+        font-size: 48px;
+        text-decoration: underline;
+  }
+header {
+  background: #f4eef4;
+  text-align: left;
+  border-bottom: 5px solid grey;
+}
+.banner{
+    height: 350px;
+    background-image: url(Images/devilsclub.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+/* #header { */
+  /* background-color: blue; */
+/* } */
+img {
+  /* width: 400px */
+  height; 300px:
+}
+
+section {
+  background: #a28989;
+  border: 1px gainsboro;
+  /* background-color: white; */
+  margin: 30px;
+  /* padding: 30px; */
+  /* width: 300px; */
+  height: 50%;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+h2 {
+  font-size: 45px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+p, a {
+  /* color; #85130a;*/
+  font-weight: normal;
+  line-height: 2;
+  text-align: justified;
+  margin: 15px;
+}
+
+ul, ol {
+  margin: 15px 0;
+}
+
+li {
+  line-height: 2;
+}
+footer p, footer a{
+  font-size: 11px;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;}
