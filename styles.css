@@ -15,7 +15,7 @@ body {
     color: #8f0505;
     margin: 50px;
     margin: 10px 20px 10px;
-    background-image: url(images/blossoms.jpg);
+    background-image: url(image/blossoms.jpg);
     background-image: no-repeat:
     }
   header,
@@ -49,7 +49,7 @@ header {
 }
 .banner{
     height: 350px;
-    background-image: url(images/devilsclub.jpg);
+    background-image: url(image/devilsclub.jpg);
     background-size: cover;
     background-position: center;
   }
