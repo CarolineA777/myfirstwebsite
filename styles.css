@@ -103,3 +103,6 @@ footer p, footer a{
 }
 a:hover {
   text-decoration: underline;}
+.float-image {
+  float: left;
+}
